@@ -41,7 +41,7 @@ Technologies
 Firebase Realtime Database
 React Native
 
-📱 Mobile Application
+ Mobile Application
 
 Developed using React Native to provide:
 
